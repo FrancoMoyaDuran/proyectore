@@ -1,0 +1,18 @@
+Package: proyectore
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Franco",
+           family  = "Moya",
+           role    = c("aut", "cre", "cph"),
+           email   = "fmoyaduran@gmail.com",
+           comment = c(ORCID = "0009-0005-3901-1545")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/FrancoMoyaDuran/proyectore
+BugReports: https://github.com/FrancoMoyaDuran/proyectore/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
